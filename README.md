@@ -1,4 +1,4 @@
-# Blog---Sencillo
+# Blog Sencillo Tarea
 Blog Sencillo para mi clase de Ciencia de Datos
 
 -->
